@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Mapa</string>
+    <string name="action_settings">Opções</string>
+    <string name="title_activity_maps">Mapa</string>
+    <string name="title_activity_maps_view">Mapa</string>
+    <string name="title_activity_settings">Opções</string>
+
+    <string name="pref_header_general">Geral</string>
+
+    <string-array name="pref_tipo_mapa_list_titles">
+        <item>Normal</item>
+        <item>Satélite</item>
+        <item>Terreno</item>
+    </string-array>
+    <string-array name="pref_tipo_mapa_list_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string name="zoom">Zoom inicial</string>
+    <string name="default_zoom">15</string>
+    <string name="tipo_mapa">Tipo de Mapa</string>
+    <string name="pref_ringtone_silent">Silent</string>
+</resources>
