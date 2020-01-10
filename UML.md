@@ -1,7 +1,7 @@
 # UML Diagrams
 ## 1. Use case
 ***
-![Image alt](https://github.com/PaBLovko/Routing/blob/master/uml_diagrams/UseCase.png)
+![Image alt](https://github.com/PaBLovko/Routing/blob/master/uml_diagrams/useCase.png)
 ***
 ## 2. Activity
 ### 2.1 Position
