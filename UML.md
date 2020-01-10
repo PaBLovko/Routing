@@ -19,7 +19,7 @@
 ## 3. Sequence
 ### 3.1 Position
 ***
-![Image alt](https://github.com/PaBLovko/Routing/blob/master/uml_diagrams/sequence_pos.png)
+![Image alt](https://github.com/PaBLovko/Routing/blob/master/uml_diagrams/sequence_pos1.png)
 ***
 ### 3.2 Route
 ***
