@@ -1,6 +1,6 @@
 # UML Diagrams
 
-### Содержание
+### Сontent
 
 1. [Use case](#1)
 2. [Activity](#2) <br>
