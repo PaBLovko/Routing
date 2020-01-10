@@ -1,9 +1,9 @@
-#UML Diagrams
-##1. Use case
+# UML Diagrams
+## 1. Use case
 ***
 ![Image alt](https://github.com/PaBLovko/Routing/blob/master/uml_diagrams/UseCase.png)
 ***
-##2. Activity
+## 2. Activity
 ### 2.1 Position
 ***
 ![Image alt](https://github.com/PaBLovko/Routing/blob/master/uml_diagrams/activ_pos.png)
@@ -16,7 +16,7 @@
 ***
 ![Image alt](https://github.com/PaBLovko/Routing/blob/master/uml_diagrams/activ_change.png)
 ***
-##3. Sequence
+## 3. Sequence
 ### 3.1 Position
 ***
 ![Image alt](https://github.com/PaBLovko/Routing/blob/master/uml_diagrams/Sequence_pos.png)
