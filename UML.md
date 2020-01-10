@@ -7,7 +7,7 @@
   2.1. [Position](#2.1) <br>
   2.2. [Route](#2.2) <br>
   2.3. [Settings](#2.3) <br>
-3. [Sequence](#3.) <br>
+3. [Sequence](#3) <br>
   3.1 [Position](#3.1) <br>
   3.2 [Route](#3.2) <br>
   3.3 [Settings](#3.3) <br>
