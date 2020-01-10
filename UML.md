@@ -27,4 +27,4 @@
 ***
 ### 3.3 Settings
 ***
-![Image alt](https://github.com/PaBLovko/Routing/blob/master/uml_diagrams/Sequence_change.png)
+![Image alt](https://github.com/PaBLovko/Routing/blob/master/uml_diagrams/sequence_change.png)
