@@ -11,7 +11,7 @@ Android-приложение **“Routing”**. С помощью данного
 
 [Приложение](https://github.com/PaBLovko/Routing/tree/master/src)
 
-[Тестирование](https://github.com/VadimTagiev750504/Routing/blob/master/Test/Test.md)
+[Тестирование](https://github.com/PaBLovko/Routing/blob/master/Test/Test.md)
 
 Платформа: Android
 
