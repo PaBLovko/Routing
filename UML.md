@@ -48,12 +48,12 @@
 ***
 ### 4. Class <a name="4"></a>
 ***
-![Image alt](https://github.com/PaBLovko/Routing/blob/master/Diagrams/ClassDiagramm.png)
+![Image alt](https://github.com/PaBLovko/Routing/blob/master/uml_diagrams/ClassDiagramm.png)
 ***
 ### 5. Component <a name="5"></a>
 ***
-![Image alt](https://github.com/PaBLovko/Routing/blob/master/Diagrams/Component.png)
+![Image alt](https://github.com/PaBLovko/Routing/blob/master/uml_diagrams/Component.png)
 ***
 ### 6. Deployment <a name="6"></a> 
 ***
-![Image alt](https://github.com/PaBLovko/Routing/blob/master/Diagrams/Deployment%20.png)
+![Image alt](https://github.com/PaBLovko/Routing/blob/master/uml_diagrams/Deployment%20.png)
