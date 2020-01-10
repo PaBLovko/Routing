@@ -10,7 +10,7 @@
 ***
 ### 2.2 Route
 ***
-![Image alt](https://github.com/PaBLovko/Routing/blob/master/uml_diagrams/activ_track.png)
+![Image alt](https://github.com/PaBLovko/Routing/blob/master/uml_diagrams/activity_track.png)
 ***
 ### 2.3 Settings
 ***
