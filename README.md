@@ -2,10 +2,10 @@
 Kozhemiakin Pavel 750504
 
 Android-приложение **“Routing”**. С помощью данного приложения пользователь сможет проложить оптимальный маршрут для быстрых перемещений по городу.
-# [Requirments](https://github.com/PaBLovko/Routing/blob/master/SRS.md)
-# [UML Diagrams](https://github.com/PaBLovko/Routing/blob/master/UML.md)
+# [Требования к проекту](https://github.com/PaBLovko/Routing/blob/master/SRS.md)
+# [Диаграммы](https://github.com/PaBLovko/Routing/blob/master/UML.md)
 # [Use case_flow of events](https://github.com/PaBLovko/Routing/blob/master/UseCase_flowOfevents.md)
-# [Testing](https://github.com/VadimTagiev750504/Routing/blob/master/Test.md)
+# [Тестирование](https://github.com/VadimTagiev750504/Routing/blob/master/Test.md)
 Платформа: Android
 
 Среда разработки: Android Studio
