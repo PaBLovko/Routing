@@ -5,7 +5,7 @@ Android-приложение **“Routing”**. С помощью данного
 
 [Требования к проекту](https://github.com/PaBLovko/Routing/blob/master/Requirements/SRS.md)
 
-[Диаграммы](https://github.com/PaBLovko/Routing/blob/master/UML.md)
+[Диаграммы](https://github.com/PaBLovko/Routing/blob/master/uml_diagrams/UML.md)
 
 [Поток событий](https://github.com/PaBLovko/Routing/blob/master/UseCase_flowOfevents.md)
 
